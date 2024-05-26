@@ -1,0 +1,10 @@
+body{
+    background-image: url(../Public/images/Background.jpg);
+    background-size: cover;
+    height: fit-content;
+    }
+.shade{
+    background-color: rgb(0,0,0,0.7);
+    height: 100vh;
+    margin-top: -24px;
+}    
